@@ -1,0 +1,11 @@
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\bin\Debug\netcoreapp2.1\thingsNStuff.deps.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\bin\Debug\netcoreapp2.1\thingsNStuff.runtimeconfig.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\bin\Debug\netcoreapp2.1\thingsNStuff.runtimeconfig.dev.json
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\bin\Debug\netcoreapp2.1\thingsNStuff.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\bin\Debug\netcoreapp2.1\thingsNStuff.pdb
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\obj\Debug\netcoreapp2.1\thingsNStuff.csprojAssemblyReference.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\obj\Debug\netcoreapp2.1\thingsNStuff.csproj.CoreCompileInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\obj\Debug\netcoreapp2.1\thingsNStuff.AssemblyInfoInputs.cache
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\obj\Debug\netcoreapp2.1\thingsNStuff.AssemblyInfo.cs
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\obj\Debug\netcoreapp2.1\thingsNStuff.dll
+C:\Users\wiec1\Documents\NSS\workspace\csharp\exercises\thingsNStuff\obj\Debug\netcoreapp2.1\thingsNStuff.pdb
